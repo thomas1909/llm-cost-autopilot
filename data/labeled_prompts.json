@@ -1,0 +1,22 @@
+[
+  {"prompt": "Extrais l'adresse email de ce texte : contactez jean.dupont@example.com pour la suite.", "tier": 1},
+  {"prompt": "Traduis cette phrase en anglais : le rapport est prêt.", "tier": 1},
+  {"prompt": "Liste les noms propres dans le contexte: Paris, Marie Curie et l'ESA ont signé un accord.", "tier": 1},
+  {"prompt": "Reformate ces dates au format ISO : 12/05/2026, 3 juin 2026.", "tier": 1},
+  {"prompt": "Convertis 4500 secondes en heures et minutes.", "tier": 1},
+  {"prompt": "Corrige les fautes : il son partit a la plage hiers.", "tier": 1},
+  {"prompt": "Donne la capitale de l'Australie.", "tier": 1},
+  {"prompt": "Extract the invoice number from: Invoice #INV-2024-001 dated June 3.", "tier": 1},
+  {"prompt": "Résume ce paragraphe en deux phrases maximum, sans jargon : la migration du datacenter a été reportée au troisième trimestre en raison de contraintes budgétaires et de dépendances applicatives non résolues, le comité a validé un plan intermédiaire.", "tier": 2},
+  {"prompt": "Classe ces 20 tickets par thème et produis un tableau markdown avec les volumes.", "tier": 2},
+  {"prompt": "Résume les risques de ce contrat en liste à puces, maximum 5 points.", "tier": 2},
+  {"prompt": "Summarize this meeting transcript and list the action items in a table.", "tier": 2},
+  {"prompt": "Classe ce document et justifie ton choix en une phrase, format JSON.", "tier": 2},
+  {"prompt": "Résume l'évolution du chiffre d'affaires décrite dans le contexte et liste les 3 facteurs principaux.", "tier": 2},
+  {"prompt": "Analyse les avantages et inconvénients d'une architecture microservices par rapport à un monolithe pour une équipe de 5 développeurs, puis recommande une approche en justifiant chaque critère : coût, vélocité, fiabilité. Réponds en markdown structuré.", "tier": 3},
+  {"prompt": "Compare ces deux stratégies d'investissement, évalue leurs risques sur 10 ans et argumente une recommandation chiffrée.", "tier": 3},
+  {"prompt": "Conçois un schéma JSON pour un système de réservation multi-sites, explique chaque choix de conception et anticipe trois évolutions futures.", "tier": 3},
+  {"prompt": "Rédige une note stratégique qui analyse l'impact de l'IA générative sur notre métier, compare trois scénarios d'adoption et argumente un plan d'action sur 18 mois.", "tier": 3},
+  {"prompt": "Imagine puis rédige trois variantes d'un discours de lancement produit, analyse le ton de chacune et explique laquelle convaincrait un public d'ingénieurs sceptiques.", "tier": 3},
+  {"prompt": "Démontre pourquoi cet algorithme est en O(n log n), explique chaque étape du raisonnement et propose une amélioration, code python à l'appui.", "tier": 3}
+]
